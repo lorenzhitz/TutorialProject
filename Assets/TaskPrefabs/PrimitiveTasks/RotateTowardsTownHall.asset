@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8f99064b6a1c06b4b9bc8dc2cf3611e9, type: 3}
+  m_Script: {fileID: 11500000, guid: be2fe7d0027d73f42a733e73e2e88306, type: 3}
   m_Name: RotateTowardsTownHall
   m_EditorClassIdentifier: Assembly-CSharp::RotateTowardsTask
   _targetLocation: 3

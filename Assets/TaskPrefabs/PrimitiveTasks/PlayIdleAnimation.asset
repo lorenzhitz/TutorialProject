@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7ee5b4fe4c0fbbe439a20f5f0daa817e, type: 3}
+  m_Script: {fileID: 11500000, guid: 646631760e861944c9b1e229e6e18211, type: 3}
   m_Name: PlayIdleAnimation
   m_EditorClassIdentifier: Assembly-CSharp::HTN_Task_Animation
   _stateName: Idle

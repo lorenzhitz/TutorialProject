@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 05466a700a9c34b44bdfde3fd66812da, type: 3}
+  m_Script: {fileID: 11500000, guid: a979a6dfbd8d88a42a9cc6c935b8f650, type: 3}
   m_Name: WalkToTownHall
   m_EditorClassIdentifier: Assembly-CSharp::HTN_CompundTask
   _subTasks:
